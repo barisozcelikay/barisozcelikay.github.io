@@ -73,7 +73,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-    background-color: #e5989b;
+    background-image: linear-gradient(#34e89e, #0f3443);
 }
 
 .dev-icons {
@@ -81,7 +81,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-    color: #e5989b;
+    background-image: linear-gradient(#34e89e, #0f3443);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
